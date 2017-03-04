@@ -1,5 +1,4 @@
-# Brian Nguyen 
-# Retention Science Code Review
+
 require 'csv'
 require 'mysql2'
 
